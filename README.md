@@ -1,6 +1,5 @@
-Quiz Game using useReducer in react state management
-
-Deploy: <a>react-quiz-beta-opal.vercel.app</a>
+**Quiz Game using useReducer in react state management
+**
 
 # Getting Started with Create React App
 
